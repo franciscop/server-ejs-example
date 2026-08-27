@@ -1,5 +1,6 @@
 {
-  "name": "server-test",
+  "name": "server-ejs-example",
+  "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +9,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Francisco Presencia <public@francisco.io> (https://francisco.io/)",
+  "license": "MIT",
   "dependencies": {
     "ejs": "^2.6.1",
     "server": "^1.0.18"
